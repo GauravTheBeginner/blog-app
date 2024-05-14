@@ -44,17 +44,10 @@ To run this application on your local machine, follow these steps:
     ```
 
 5. Access the application in your web browser at [http://127.0.0.1:8000/api/blogposts/](http://127.0.0.1:8000/api/blogposts/).
-
-## Usage
-
-
+   
 ## Contributions
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or create a pull request.
-
-## Credits
-
-This application was developed by [Your Name] as a learning project inspired by the teachings of [Harkirat Sir] during the course on CRUD functionality.
 
 ## License
 
